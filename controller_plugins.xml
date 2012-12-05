@@ -1,0 +1,5 @@
+<library path="lib/libmotor_diagnostic_controller_lib">
+  <class name="pr2_diagnostic_controller/DiagnosticControllerPlugin" 
+         type="controller::Pr2DiagnosticController"           
+         base_class_type="pr2_controller_interface::Controller" />
+</library>
